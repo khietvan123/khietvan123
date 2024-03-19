@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Khiet Van or Joanne
-- 👀 I’m interested in cats
-- 🌱 I’m currently learning computer programming and analysis
+- 👋 Hi, I’m Khiet Van or you can call me Joanne
+- 👀 I’m still learning new stuff everyday !
+- 🌱 I’m currently studying computer programming and analysis
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like parrots
 
