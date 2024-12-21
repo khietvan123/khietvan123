@@ -26,9 +26,10 @@
 
 When I’m not coding, you’ll find me:
 
-    Watching nature documentaries
-    Trying out new recipes
-    Exploring design tools
+    Watching documentaries
+    Trying out new cooking recipes
+    Walking - playing instruments
+    Gaming :) 
 
 🎉 Want to Connect?
 
