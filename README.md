@@ -34,6 +34,9 @@ When I’m not coding, you’ll find me:
 
 Feel free to explore my repositories, and let’s connect if you share similar interests!
 
+![Cat typing](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBmbTRiMGtlMHhydTR3MnptNHIxYTA1MmJpMjg0Zzk1amN0OXlwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
+
+
 <!---
 khietvan123/khietvan123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
